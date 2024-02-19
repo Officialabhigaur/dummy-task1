@@ -1,0 +1,22 @@
+.form-control {
+  display: flex;
+  gap: 0.8rem;
+  align-items: center;
+  padding: 0.5rem 0;
+}
+
+.form-control label {
+  color: #363636;
+  font-weight: 500;
+  font-size: 1rem;
+  text-transform: capitalize;
+}
+
+.form-control input {
+  width: 18px;
+  height: 18px;
+  border: 1px solid #999;
+  border-radius: 4px;
+  accent-color: #33308b;
+  text-transform: capitalize;
+}

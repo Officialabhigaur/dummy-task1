@@ -1,0 +1,18 @@
+1) ls -> to view file/folder in a driectory
+2) ls -a -> to view all files/folder plus hidden files
+3) cd folderName -> to change directory
+4) cd .. ->  to coming back to previous folder
+5) cd ~ ->  for goinh to root directory
+6) touch fileName ->  you can create a empty file
+7) rm fileName-> to delete a file
+8) rm - rf fileName-> to delete a file forcefully
+9) cat -> for viewing the file content
+10) mkdir folderName-> for creating a folder
+11) rmdir folderName-> for deleting a folder
+
+
+VIM Editor:
+1) For writing -> press i (insert mode)
+2) for saving file -> press Esc then press : then press w
+3) for exiting from editor -> press Esc, then press :, then press q
+4) fro save+exit -> press Esc, then :, then wq
